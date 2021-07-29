@@ -1,0 +1,58 @@
+img {
+    /* 横幅 */
+    width: 721px;
+    /* 高さ */
+    height: 400px;
+    /* 幅 */
+    margin: -2px;
+}
+
+h1 {
+    /* サイズ */
+    font-size: 40px;
+    color: rgb(0, 183, 255);
+    text-align: center;
+    margin: 50px;
+}
+
+h2 {
+    font-size: 30px;    
+}
+
+.name {
+    display: flex;
+}
+
+.header-left {
+    display: flex;
+}
+
+.name1 {
+    /* 周り */
+    margin: 170px;
+    /* 上 */
+    margin-top: 90px;
+    /* 左 */
+    margin-left: 50px;
+    display: flex;
+}
+ 
+.logo {
+    display: flex;
+}
+
+.header-left > img {
+    /* 横幅 */
+    width: 300px;
+    /* 高さ */
+    height: 300px;
+    /* 周り */
+    margin: 150px;
+    /* 上 */
+    margin-top: 50px;
+    /* 右 */
+    margin-right: 70px;
+    /* 左 */
+    margin-left: 300px;
+    
+}
